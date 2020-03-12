@@ -1,0 +1,31 @@
+{
+  "files": {
+    "static/js/0.107fb7c4.chunk.js": "/TriviaChallenge/static/js/0.107fb7c4.chunk.js",
+    "static/js/0.107fb7c4.chunk.js.map": "/TriviaChallenge/static/js/0.107fb7c4.chunk.js.map",
+    "main.js": "/TriviaChallenge/static/js/main.c7d82360.chunk.js",
+    "main.js.map": "/TriviaChallenge/static/js/main.c7d82360.chunk.js.map",
+    "runtime-main.js": "/TriviaChallenge/static/js/runtime-main.48648bd6.js",
+    "runtime-main.js.map": "/TriviaChallenge/static/js/runtime-main.48648bd6.js.map",
+    "static/js/3.3ce197f5.chunk.js": "/TriviaChallenge/static/js/3.3ce197f5.chunk.js",
+    "static/js/3.3ce197f5.chunk.js.map": "/TriviaChallenge/static/js/3.3ce197f5.chunk.js.map",
+    "static/js/4.3a3365ae.chunk.js": "/TriviaChallenge/static/js/4.3a3365ae.chunk.js",
+    "static/js/4.3a3365ae.chunk.js.map": "/TriviaChallenge/static/js/4.3a3365ae.chunk.js.map",
+    "static/js/5.2772ea09.chunk.js": "/TriviaChallenge/static/js/5.2772ea09.chunk.js",
+    "static/js/5.2772ea09.chunk.js.map": "/TriviaChallenge/static/js/5.2772ea09.chunk.js.map",
+    "static/js/6.48afdefb.chunk.js": "/TriviaChallenge/static/js/6.48afdefb.chunk.js",
+    "static/js/6.48afdefb.chunk.js.map": "/TriviaChallenge/static/js/6.48afdefb.chunk.js.map",
+    "static/js/7.9601e6d6.chunk.js": "/TriviaChallenge/static/js/7.9601e6d6.chunk.js",
+    "static/js/7.9601e6d6.chunk.js.map": "/TriviaChallenge/static/js/7.9601e6d6.chunk.js.map",
+    "static/js/8.5b8a47a5.chunk.js": "/TriviaChallenge/static/js/8.5b8a47a5.chunk.js",
+    "static/js/8.5b8a47a5.chunk.js.map": "/TriviaChallenge/static/js/8.5b8a47a5.chunk.js.map",
+    "index.html": "/TriviaChallenge/index.html",
+    "precache-manifest.4711c8664c78ae4cf076466ea07349ab.js": "/TriviaChallenge/precache-manifest.4711c8664c78ae4cf076466ea07349ab.js",
+    "service-worker.js": "/TriviaChallenge/service-worker.js",
+    "static/js/3.3ce197f5.chunk.js.LICENSE.txt": "/TriviaChallenge/static/js/3.3ce197f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48648bd6.js",
+    "static/js/3.3ce197f5.chunk.js",
+    "static/js/main.c7d82360.chunk.js"
+  ]
+}
