@@ -1,29 +1,29 @@
 {
   "files": {
-    "static/js/0.f1735fb3.chunk.js": "/TriviaChallenge/static/js/0.f1735fb3.chunk.js",
-    "static/js/0.f1735fb3.chunk.js.map": "/TriviaChallenge/static/js/0.f1735fb3.chunk.js.map",
-    "main.js": "/TriviaChallenge/static/js/main.39aac5e5.chunk.js",
-    "main.js.map": "/TriviaChallenge/static/js/main.39aac5e5.chunk.js.map",
-    "runtime-main.js": "/TriviaChallenge/static/js/runtime-main.86c8ae80.js",
-    "runtime-main.js.map": "/TriviaChallenge/static/js/runtime-main.86c8ae80.js.map",
-    "static/js/3.e0029034.chunk.js": "/TriviaChallenge/static/js/3.e0029034.chunk.js",
-    "static/js/3.e0029034.chunk.js.map": "/TriviaChallenge/static/js/3.e0029034.chunk.js.map",
-    "static/js/4.b2bb360b.chunk.js": "/TriviaChallenge/static/js/4.b2bb360b.chunk.js",
-    "static/js/4.b2bb360b.chunk.js.map": "/TriviaChallenge/static/js/4.b2bb360b.chunk.js.map",
-    "static/js/5.d9ad4a33.chunk.js": "/TriviaChallenge/static/js/5.d9ad4a33.chunk.js",
-    "static/js/5.d9ad4a33.chunk.js.map": "/TriviaChallenge/static/js/5.d9ad4a33.chunk.js.map",
-    "static/js/6.39dab1bb.chunk.js": "/TriviaChallenge/static/js/6.39dab1bb.chunk.js",
-    "static/js/6.39dab1bb.chunk.js.map": "/TriviaChallenge/static/js/6.39dab1bb.chunk.js.map",
-    "static/js/7.ed4a9c13.chunk.js": "/TriviaChallenge/static/js/7.ed4a9c13.chunk.js",
-    "static/js/7.ed4a9c13.chunk.js.map": "/TriviaChallenge/static/js/7.ed4a9c13.chunk.js.map",
+    "static/js/0.3eeb5d2b.chunk.js": "/TriviaChallenge/static/js/0.3eeb5d2b.chunk.js",
+    "static/js/0.3eeb5d2b.chunk.js.map": "/TriviaChallenge/static/js/0.3eeb5d2b.chunk.js.map",
+    "main.js": "/TriviaChallenge/static/js/main.98dd4ae7.chunk.js",
+    "main.js.map": "/TriviaChallenge/static/js/main.98dd4ae7.chunk.js.map",
+    "runtime-main.js": "/TriviaChallenge/static/js/runtime-main.9fb03be4.js",
+    "runtime-main.js.map": "/TriviaChallenge/static/js/runtime-main.9fb03be4.js.map",
+    "static/js/3.3db06a4e.chunk.js": "/TriviaChallenge/static/js/3.3db06a4e.chunk.js",
+    "static/js/3.3db06a4e.chunk.js.map": "/TriviaChallenge/static/js/3.3db06a4e.chunk.js.map",
+    "static/js/4.039529a2.chunk.js": "/TriviaChallenge/static/js/4.039529a2.chunk.js",
+    "static/js/4.039529a2.chunk.js.map": "/TriviaChallenge/static/js/4.039529a2.chunk.js.map",
+    "static/js/5.b901a022.chunk.js": "/TriviaChallenge/static/js/5.b901a022.chunk.js",
+    "static/js/5.b901a022.chunk.js.map": "/TriviaChallenge/static/js/5.b901a022.chunk.js.map",
+    "static/js/6.7913e3cd.chunk.js": "/TriviaChallenge/static/js/6.7913e3cd.chunk.js",
+    "static/js/6.7913e3cd.chunk.js.map": "/TriviaChallenge/static/js/6.7913e3cd.chunk.js.map",
+    "static/js/7.21d81ff3.chunk.js": "/TriviaChallenge/static/js/7.21d81ff3.chunk.js",
+    "static/js/7.21d81ff3.chunk.js.map": "/TriviaChallenge/static/js/7.21d81ff3.chunk.js.map",
     "index.html": "/TriviaChallenge/index.html",
-    "precache-manifest.cb1308a4b66794e3abf51871b7f92b34.js": "/TriviaChallenge/precache-manifest.cb1308a4b66794e3abf51871b7f92b34.js",
+    "precache-manifest.a59c634238cd512076c4851fed30a92c.js": "/TriviaChallenge/precache-manifest.a59c634238cd512076c4851fed30a92c.js",
     "service-worker.js": "/TriviaChallenge/service-worker.js",
-    "static/js/3.e0029034.chunk.js.LICENSE.txt": "/TriviaChallenge/static/js/3.e0029034.chunk.js.LICENSE.txt"
+    "static/js/3.3db06a4e.chunk.js.LICENSE.txt": "/TriviaChallenge/static/js/3.3db06a4e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.86c8ae80.js",
-    "static/js/3.e0029034.chunk.js",
-    "static/js/main.39aac5e5.chunk.js"
+    "static/js/runtime-main.9fb03be4.js",
+    "static/js/3.3db06a4e.chunk.js",
+    "static/js/main.98dd4ae7.chunk.js"
   ]
 }
